@@ -1,0 +1,14 @@
+This project aims to make a qt based gui and 
+extend it to a java/kivy based android app which hosts 
+Kabir Granthawali, compiled by Dr. Sham Sundar Das.
+The book is one of the exhaustive sources of literature of Kabir which 
+can be deemed authentic on the basis of sources, language and ideology.
+
+Later apocryphal works in name of Saint Kabir have a newer language and different ideology.
+
+The poetry in this book and the sofware is divided inot
+1. sakhis
+2. padas
+and ramainis.
+
+Currently code and database for padas and ramainis have been added.
